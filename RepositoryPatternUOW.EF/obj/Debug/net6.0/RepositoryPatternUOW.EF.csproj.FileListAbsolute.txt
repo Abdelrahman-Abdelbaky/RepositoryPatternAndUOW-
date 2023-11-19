@@ -1,0 +1,17 @@
+D:\FullStackCareer\BackEnd\repository pattern\RepositoryPatternUOW\RepositoryPatternUOW.EF\bin\Debug\net6.0\RepositoryPatternUOW.EF.deps.json
+D:\FullStackCareer\BackEnd\repository pattern\RepositoryPatternUOW\RepositoryPatternUOW.EF\bin\Debug\net6.0\RepositoryPatternUOW.EF.runtimeconfig.json
+D:\FullStackCareer\BackEnd\repository pattern\RepositoryPatternUOW\RepositoryPatternUOW.EF\bin\Debug\net6.0\RepositoryPatternUOW.EF.dll
+D:\FullStackCareer\BackEnd\repository pattern\RepositoryPatternUOW\RepositoryPatternUOW.EF\bin\Debug\net6.0\RepositoryPatternUOW.EF.pdb
+D:\FullStackCareer\BackEnd\repository pattern\RepositoryPatternUOW\RepositoryPatternUOW.EF\obj\Debug\net6.0\RepositoryPatternUOW.EF.csproj.AssemblyReference.cache
+D:\FullStackCareer\BackEnd\repository pattern\RepositoryPatternUOW\RepositoryPatternUOW.EF\obj\Debug\net6.0\RepositoryPatternUOW.EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\FullStackCareer\BackEnd\repository pattern\RepositoryPatternUOW\RepositoryPatternUOW.EF\obj\Debug\net6.0\RepositoryPatternUOW.EF.AssemblyInfoInputs.cache
+D:\FullStackCareer\BackEnd\repository pattern\RepositoryPatternUOW\RepositoryPatternUOW.EF\obj\Debug\net6.0\RepositoryPatternUOW.EF.AssemblyInfo.cs
+D:\FullStackCareer\BackEnd\repository pattern\RepositoryPatternUOW\RepositoryPatternUOW.EF\obj\Debug\net6.0\RepositoryPatternUOW.EF.csproj.CoreCompileInputs.cache
+D:\FullStackCareer\BackEnd\repository pattern\RepositoryPatternUOW\RepositoryPatternUOW.EF\obj\Debug\net6.0\RepositoryPatternUOW.EF.dll
+D:\FullStackCareer\BackEnd\repository pattern\RepositoryPatternUOW\RepositoryPatternUOW.EF\obj\Debug\net6.0\refint\RepositoryPatternUOW.EF.dll
+D:\FullStackCareer\BackEnd\repository pattern\RepositoryPatternUOW\RepositoryPatternUOW.EF\obj\Debug\net6.0\RepositoryPatternUOW.EF.pdb
+D:\FullStackCareer\BackEnd\repository pattern\RepositoryPatternUOW\RepositoryPatternUOW.EF\obj\Debug\net6.0\RepositoryPatternUOW.EF.genruntimeconfig.cache
+D:\FullStackCareer\BackEnd\repository pattern\RepositoryPatternUOW\RepositoryPatternUOW.EF\obj\Debug\net6.0\ref\RepositoryPatternUOW.EF.dll
+D:\FullStackCareer\BackEnd\repository pattern\RepositoryPatternUOW\RepositoryPatternUOW.EF\bin\Debug\net6.0\RepositoryPatternUOW.Core.dll
+D:\FullStackCareer\BackEnd\repository pattern\RepositoryPatternUOW\RepositoryPatternUOW.EF\bin\Debug\net6.0\RepositoryPatternUOW.Core.pdb
+D:\FullStackCareer\BackEnd\repository pattern\RepositoryPatternUOW\RepositoryPatternUOW.EF\obj\Debug\net6.0\RepositoryPatternUOW.EF.csproj.CopyComplete
